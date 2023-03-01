@@ -1,0 +1,124 @@
+img {
+    width: 125px;
+    height: 140px;
+    margin-left: 65px;
+
+}
+
+html {
+    margin-top: 10px;
+    margin-left: -55px;
+}
+
+a:hover {
+    color: blue;
+}
+
+
+.topIntro {
+    position: absolute;
+    left: 200px;
+    top: 10px;
+    margin-right: 100px;
+    margin-left: -50px;
+    text-align: left;
+
+}
+
+h6 {
+    font-size: 15;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 13;
+
+}
+
+hr {
+    margin-top: 30px;
+    margin-left: 65px;
+    margin-bottom: -10px;
+}
+
+#tech1 {
+    margin-left: 65px;
+    margin-top: 32px;
+}
+
+
+h3 {
+    margin-left: 65px;
+    margin-top: 25px;
+}
+
+ul {
+    text-align: left;
+    padding-left: 100px;
+}
+
+h4 {
+    margin-bottom: -10px;
+    padding-left: 100px
+}
+
+.midParagraph {
+    text-align: justify;
+
+}
+
+.date {
+    margin-left: 70px;
+    margin-top: 15px;
+   
+}
+
+.profile1 {
+    margin-left: 20px;
+    margin-top: 16px;
+}
+
+.profile2 {
+    margin-left: 0px;
+    margin-top: 12.5px;
+    margin-right: -85px;
+
+}
+
+
+.dateContainer {
+    *position: absolute;
+    text-align: left;
+
+}
+
+.workContainer {
+    position: absolute;
+    right: 950px;
+    margin-right: 290px;
+    top: 375px;
+    text-align: justify;
+}
+
+.w1 {
+    margin-top: 40px;
+
+}
+
+.dateContainer2 {
+    *position: absolute;
+    text-align: left;
+}
+
+.workContainer2 {
+    position: absolute;
+    right: 900px;
+    margin-right: 300px;
+    top: 490px;
+    text-align: center;
+}
+
+.w2 {
+
+    margin-top: 50px;
+}
