@@ -14,6 +14,9 @@ a:hover {
     color: blue;
 }
 
+.workexperience {
+    position: absolute;
+}
 
 .topIntro {
     position: absolute;
@@ -23,6 +26,10 @@ a:hover {
     margin-left: -50px;
     text-align: left;
 
+}
+
+table td {
+    padding-left: 70px;
 }
 
 h6 {
@@ -70,7 +77,7 @@ h4 {
 .date {
     margin-left: 70px;
     margin-top: 15px;
-   
+
 }
 
 .profile1 {
